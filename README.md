@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anish
+- 👋 Hi
 
 <!---
 AnishBaniya/AnishBaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
